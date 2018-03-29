@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520165048 source:c:\users\matrx\desktop\20160017_assaigment2\main.cpp
+	<iostream>
+	<string.h>
+	<cstring>
+	<string>
+

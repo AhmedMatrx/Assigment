@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520169097 source:d:\fci\2nd , 2 term\prog1\20160017_assaigment2\20160017_task2\main.cpp
+	<iostream>
+	<string.h>
+	<cstring>
+	<string>
+
